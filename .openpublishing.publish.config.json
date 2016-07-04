@@ -1,0 +1,21 @@
+{
+  "build_entry_point": "op",
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false,
+  "docsets_to_publish": [
+    {
+      "docset_name": "test070402",
+      "build_source_folder": "test070402",
+      "build_output_subfolder": "test070402",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {},
+      "build_entry_point": "op"
+    }
+  ],
+  "notification_subscribers": [],
+  "branches_to_filter": [],
+  "skip_source_output_uploading": false,
+  "dependent_repositories": []
+}
